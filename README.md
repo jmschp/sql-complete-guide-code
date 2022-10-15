@@ -3,6 +3,8 @@
 
 # SQL - The Complete Guide Course Code
 
+![SQL - The Complete Guide Course Code](https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto:eco/dpr_2.0,w_400,c_limit,g_center,h_250/v1/academind.com/content/courses/sql-the-complete-developers-guide/sql-the-complete-developers-guide "SQL - The Complete Guide Course Code")
+
 This repository contains the code (the SQL commands) we show in our [SQL - The Complete Guide](https://acad.link/sql) course.
 
 The code / command snapshots are organized into multiple **branches** where each branch represents a different **course section**.
@@ -160,33 +162,33 @@ Please note that, of course, **ALL** the course content, including these SQL com
 97. Splitting Data Into Tables
 98. Forms Of Data Normalization
 99. Our First Section Example
-100. Creating Tables With Relations
-101. Inserting Related Data
-102. Joining Data & Introducing INNER JOIN
-103. Using INNER JOIN
-104. Combining Multiple JOINs
-105. Data Joining & Filtering
-106. Introducing LEFT JOIN
-107. Using LEFT JOIN
-108. Combining Multiple LEFT JOINs
-109. What About RIGHT JOIN?
-110. Example Time & INNER JOIN vs LEFT JOIN
-111. Introducing CROSS JOIN
-112. UNION & Why It's Different
-113. What's Wrong With Our Foreign Keys?
-114. Introducing Foreign Key Constraints
-115. Diving Deeper Into Foreign Key Constraints
-116. Updating & Removing Foreign Key Constraints
-117. Foreign Key Constraints In Action
-118. REFERENCES & MySQL
-119. Data Relationship Types: One-to-Many, Many-to-Many, One-to-ONe
-120. A Bigger Example
-121. Example: Adding First Tables & Relations
-122. Example: Adding More Tables & Data
-123. Many-to-Many Relationships & Intermediate Tables ("Linking Tables")
-124. Querying The Example Data
-125. Practicing JOINs With Filtering
-126. Experimenting With Referential Integrity
+100.  Creating Tables With Relations
+101.  Inserting Related Data
+102.  Joining Data & Introducing INNER JOIN
+103.  Using INNER JOIN
+104.  Combining Multiple JOINs
+105.  Data Joining & Filtering
+106.  Introducing LEFT JOIN
+107.  Using LEFT JOIN
+108.  Combining Multiple LEFT JOINs
+109.  What About RIGHT JOIN?
+110.  Example Time & INNER JOIN vs LEFT JOIN
+111.  Introducing CROSS JOIN
+112.  UNION & Why It's Different
+113.  What's Wrong With Our Foreign Keys?
+114.  Introducing Foreign Key Constraints
+115.  Diving Deeper Into Foreign Key Constraints
+116.  Updating & Removing Foreign Key Constraints
+117.  Foreign Key Constraints In Action
+118.  REFERENCES & MySQL
+119.  Data Relationship Types: One-to-Many, Many-to-Many, One-to-ONe
+120.  A Bigger Example
+121.  Example: Adding First Tables & Relations
+122.  Example: Adding More Tables & Data
+123.  Many-to-Many Relationships & Intermediate Tables ("Linking Tables")
+124.  Querying The Example Data
+125.  Practicing JOINs With Filtering
+126.  Experimenting With Referential Integrity
 
 </details>
 <details>
