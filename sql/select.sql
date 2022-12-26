@@ -1,1 +1,4 @@
-SELECT * FROM customers;
+SELECT
+  *
+FROM
+  customers;
